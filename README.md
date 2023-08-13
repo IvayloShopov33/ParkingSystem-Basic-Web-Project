@@ -8,6 +8,8 @@ I created this simple Parking System MVC application. It is my first MVC applica
 
 **• Adding a Car**
 
+You can do this when you type car details in the blank fields: **Make** and **Plate #**. Finally, you should simply click on **Add** button.
+
 ![image](https://github.com/IvayloShopov33/ParkingSystem-Basic-Web-Project/assets/133992028/4c6b7aad-b17c-4972-8d6c-ce73a24ab62e)
 
 **• Deleting a Car**
