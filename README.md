@@ -1,5 +1,5 @@
 # ParkingSystem-Basic-Web-Project
-I created this simple Parking System MVC application. It is my first MVC applicaton. It holds Cars inside memory storage. The functionality of the application supports:
+I created this simple Parking System MVC application. It is my first MVC applicaton. It holds Cars inside memory storage. They have 2 properties (CarMake and PlateNumber) which are non-empty strings. The functionality of the application supports:
 
 **• Listing Cars**
 
