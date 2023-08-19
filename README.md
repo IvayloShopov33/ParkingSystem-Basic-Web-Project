@@ -1,5 +1,7 @@
 # ParkingSystem-Basic-Web-Project
-I created this simple Parking System MVC application. It is my first MVC applicaton. It holds Cars inside memory storage. They have 2 properties (CarMake and PlateNumber) which are non-empty strings. I used objects and classes, list to store the details of the cars and Regular Expressions (Regex) to verify the input and if it is valid, the car is added to the list. The functionality of the application supports:
+I created this simple Parking System MVC application. It is my first MVC applicaton. It holds Cars inside memory storage. I used objects and class (with 2 properties-CarMake and PlateNumber,  which are non-empty strings), list to store the details of the cars and Regular Expressions (Regex) to verify the input and if it is valid, the car is added to the list. In addition, I created a controller, which displays cars and another controller, which holds the logic for adding and deleting cars. 
+
+The functionality of the application supports:
 
 **• Listing Cars**
 
